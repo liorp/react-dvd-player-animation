@@ -3,6 +3,8 @@
 
 # react-dvd-player-animation
 
+![dvd_animation](https://user-images.githubusercontent.com/4294489/167245126-ffa51014-6846-4067-8b4b-e164ec8f01f1.gif)
+
 ### A fully composable React component that reproduces the iconic DVD animation.
 
 Credit for the original code is due to [andrewchmr](https://github.com/andrewchmr/BouncingDVDLogoReactSVG/)
