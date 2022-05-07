@@ -5,7 +5,7 @@
 
 ### A fully composable React component that reproduces the iconic DVD animation.
 
-Credit for the original package is due to [andrewchmr](https://github.com/andrewchmr/BouncingDVDLogoReactSVG/)
+Credit for the original code is due to [andrewchmr](https://github.com/andrewchmr/BouncingDVDLogoReactSVG/)
 
 ### Installation
 
