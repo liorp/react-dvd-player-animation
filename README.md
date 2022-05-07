@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/liorp/react-dvd-player-animation)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-dvd-player-animation)
-
+[![Edit react-dvd-player-animation-demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-dvd-player-animation-demo-7w0brc?fontsize=14&hidenavigation=1&theme=dark)
 # react-dvd-player-animation
 
 ![dvd_animation](https://user-images.githubusercontent.com/4294489/167245126-ffa51014-6846-4067-8b4b-e164ec8f01f1.gif)
